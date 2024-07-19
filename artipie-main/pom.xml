@@ -170,7 +170,7 @@ SOFTWARE.
         <dependency>
             <groupId>org.keycloak</groupId>
             <artifactId>keycloak-authz-client</artifactId>
-            <version>24.0.1</version>
+            <version>25.0.1</version>
         </dependency>
         <dependency>
             <groupId>org.quartz-scheduler</groupId>
