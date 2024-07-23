@@ -1,4 +1,4 @@
-FROM alpine:3.11
+FROM alpine:3.19
 
 WORKDIR /test
 RUN apk --update --no-cache add bash docker-cli
