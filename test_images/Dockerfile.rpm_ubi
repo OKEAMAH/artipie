@@ -1,4 +1,4 @@
-FROM redhat/ubi9:9.0.0
+FROM redhat/ubi9:9.4-1214.1725849297
 ENV REV=2
 RUN yum -y upgrade
 RUN yum --allowerasing -y install curl xz nc
